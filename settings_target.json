@@ -1,0 +1,10 @@
+{
+    "design_path": "/scratch/venzel-protein_design/protein_wizardy",
+    "binder_name": "egfr",
+    "starting_pdb": "/scratch/venzel-protein_design/protein_wizardy/trunc_egfr.pdb",
+    "chains": "A",
+    "target_hotspot_residues": "35,36,37,464, 465, 39,40,41,42,380",
+    "lengths": [40, 250],
+    "number_of_final_designs": 300
+}
+
